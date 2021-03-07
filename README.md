@@ -1,1 +1,3 @@
-# estudos
+# Repository for courses and studies
+
+
